@@ -34,7 +34,7 @@ And crucially, **you still periodically open Slack** and other apps because of t
 
 Using NoTify ourselves has been such a breeze and we have become dependent on it to have those [real focus periods](https://www.getclockwise.com/blog/what-is-focus-time#:~:text=Focus%20Time%20is%20two%20or,give%20it%20your%20undivided%20attention) of work where we can go back to building. We cannot imagine a world without it.
 
-![Zen](pitch_images/Zen.png)
+![Zen](pitch_images/zen.png)
 
 ## How It Works
 
