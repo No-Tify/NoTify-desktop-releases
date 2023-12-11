@@ -1,8 +1,14 @@
 # NoTify - Stop getting distracted at Work!
 
-![Filtered Notifications](Pictures/Notifications_Filtered.png)
+## Table of Contents
 
-![Customize your Notification Filters](Pictures/Notification_Filter_Customization.png)
+1. [Introduction](#notify---stop-getting-distracted-at-work)
+2. [The Problem with Slack](#you-wish-you-could-keep-slack-closed)
+3. [Customizing My Notifications](#customizing-notifications-in-2023)
+4. [NoTify - Fine-grained Control Over Your Notifications](#notify---fine-grained-control-over-your-notifications)
+5. [How It Works](#how-it-works)
+6. [User Guide](#user-guide)
+7. [Interest Sign-Up Form](#interest-sign-up-form)
 
 ## You wish you could keep Slack closed
 
@@ -12,36 +18,60 @@ Every developer has felt the pain of spending all day responding to notification
 
 But, eventually, Slack wins out and we end up opening the app again. Why? Because, perhaps we missed an important direct message from a manager or a project partner. But, often that isn't the case, yet we still proceed to spend time clicking through every unread channel and wading through notification hell.
 
-## Customizing my notifications
+Worst of all, there are 10 other apps like Gmail, iMessage, and Calendar that are all sending you notifications with varying degrees of importance.
 
-Death by notification is such a problem for all of us that we've all come up with various hacky solutions to deal with it!
+![Notification-overload](pitch_images/Notification-overload-1.png)
 
-- You may have a separate work computer and personal computer.
-- You may even have a separate work and personal phone.
-- You may set 'Do Not Disturb' on for your computer
-- You may have an automatic setting that turns Do Not Disturb on during work hours and sleep hours, and off during other times
-- You may have settings on Slack (or other work messaging platform) and other Work tools that turn notification on during work hours and off during other times
-- You may have settings on Slack that notify you only if you were directly mentioned/tagged in a thread, or if you were directly messaged, or if a keyword important to you was mentioned
-- You may be in various personal group chats that you muted notifications for through the messaging app
-- You may have set especially important alerts to notify you even if you have Do Not Disturb on, e.g. Calendar alerts or On-call alerts
-- You may have apps that you care about generally, but don't want to see during work hours - and you may have used the 'Work Focus' feature on iOS (or an analogous feature) to select apps that are silenced or allowed inside or outside your work hours
+## Customizing Notifications in 2023
 
-You at various points in time (in order to customize these settings) may go to:
+Death by notification is such a problem for all of us that we've each come up with various half-baked solutions to deal with it! However, no matter what focus mode you customize, how many slack channels you mute, and how many apps you silence, those pesky notifications still come through or get blocked at seemingly the most inconvenient times.
 
-- Your (work or home) computer's notification settings page
-- The Slack notification settings page
-- the Messages app notification settings page
-- Any social media settings page
-- Your computer's do not disturb setting
-- Your browser's notification setting page
-- Your (work or home) smartphone's notification settings page
-
-And crucially, even though you may make use of some of these features, **you still periodically open Slack** and other apps purely with the intention of seeing if you missed a notification
+And crucially, **you still periodically open Slack** and other apps because of that fear of missing out on something.
 
 ## NoTify - Fine-grained control over your notifications!
 
-Before you start your work day, think about why you don't just permanently mute all of your notifications to enjoy a stress-free working experience
+**That's why we built NoTify - to only allow the notifications that matter!**
 
-_It's because I need to respond to Slack messages from my Manager or my project partner, texts from my significant other, and keep a watch on customers in these 5 slack channels and these 4 email threads - so I can't mute all my notifications!_
+Using NoTify ourselves has been such a breeze and we have become dependent on it to have those [real focus periods](https://www.getclockwise.com/blog/what-is-focus-time#:~:text=Focus%20Time%20is%20two%20or,give%20it%20your%20undivided%20attention) of work where we can go back to building. We cannot imagine a world without it.
 
-**With NoTify, you can mute all OTHER notifications and only allow these!**
+![Zen](pitch_images/Zen.png)
+
+## How It Works
+
+We use your OpenAI API Key to filter out the notifications you receive and only alerting you about the stuff that matters. Never worry about having to constantly flip over to your inbox to see if that one important customer has responded yet so that you can [respond within 5 minutes](https://conversion-monster.com/lead-response-time/) - NoTify will recognize that they are important and notify you [loudly 🔊!](public/notification_sound.wav)
+
+<img src="pitch_images/PreFilter.png" alt="PreFilter" width="400"/>
+<img src="pitch_images/PreNotifications.png" align="top" alt="PreNotifications" width="400"/>
+
+**You can tell NoTify exactly when to look out for something important in natural language!** Since you may have super specific needs on which messages you need to see immediately and which can wait, we created an intuitive interface through which you can inform NoTify how to adapt it's behavior. If you see a notification that shouldn't be important, simply modify your category descriptions by clicking on the settings button on the top right.
+
+<img src="pitch_images/PostFilter.png" alt="PostFilter" width="400"/>
+<img src="pitch_images/PostNotifications.png" align="top" alt="PreNotifications" width="400"/>
+
+Instead of having your 2 chat apps, email, and custom alerting tools all open taking up a whole monitor on your desk, just keep NoTify open on the side! Think of it like an inbox for your notifications. As a bonus, if you hit Inbox 0 on your notifications, you will be rewarded with a nice picture for your diligence, and you can go back to coding in peace.
+
+## User Guide
+
+1. To use NoTify, download the product as follows:
+
+- Download the app with this link: [notify-darwin-universal-1.0.4.zip](https://github.com/No-Tify/NoTify-desktop-releases/releases/download/v1.0.4-test-better-sqlite3-universal/notify-darwin-universal-1.0.4.zip)
+- Double click the app (notify) to open!
+
+2. Upon first opening the product, you should click the 'Filter' button in the top right, select your desired OpenAI Model, and save your OpenAI API KEY. If you do not have you you can make one by following the steps [here](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/). (_This will cost you some OpenAI API Credits, and send your computer's notifications to OpenAI's server - so make sure you are comfortable with the cost and security implications!_)
+
+3. After that, the default customizations will already separate out your important notifications into your inbox. We recommend
+
+   - muting notifications on a system level by [turning on](https://support.apple.com/en-gb/guide/mac-help/mchl999b7c1a/mac) "Do Not Disturb" so that you don't get double notified.
+   - (_if possible_) Adding NoTify to 'Allowed Apps' in the Do Not Disturb focus (in System Settings > Focus > Do Not Disturb)!
+
+4. Click on notifications to dismiss them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `j`, and `k` to navigate or `e` to dismiss the selected notification)
+
+5. Congratulations! You have already gotten most of the way to filtering out all the clutter of notifications. The last step of the process is to add customizations, which you can do by clicking the settings button on the top right. These are all natural language, and we recommend just adding a new line with any rules you would like the app to follow.
+
+   <img src="pitch_images/PostFilter.png" align="top" alt="PostFilter2" width="400"/>
+
+<!-- You can also follow along in the video below -->
+
+## Interest Sign-Up Form
+
+Interested? [Join the Waitlist](https://docs.google.com/forms/d/e/1FAIpQLSeFzsNkiRDgDT6RgMnjCcpIzzF82qeuUyFZ-y5GwrHGcqL9hA/viewform?usp=sf_link) or email us at akshaj[DOT]kadaveru@gmail.com or sun[DOT]daniel[DOT]d@gmail.com
