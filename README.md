@@ -38,7 +38,7 @@ Using NoTify ourselves has been such a breeze and we have become dependent on it
 
 ## How It Works
 
-We use your OpenAI API Key to filter out the notifications you receive and only alerting you about the stuff that matters. Never worry about having to constantly flip over to your inbox to see if that one important customer has responded yet so that you can [respond within 5 minutes](https://conversion-monster.com/lead-response-time/) - NoTify will recognize that they are important and notify you [loudly 🔊!](public/notification_sound.wav)
+We use your OpenAI API Key to filter out the notifications you receive and only alerting you about the stuff that matters. Never worry about having to constantly flip over to your inbox to see if that one important customer has responded yet so that you can [respond within 5 minutes](https://conversion-monster.com/lead-response-time/) - NoTify will recognize that they are important and notify you [loudly 🔊!](pitch_images/notification_sound.wav)
 
 <img src="pitch_images/PreFilter.png" alt="PreFilter" width="400"/>
 <img src="pitch_images/PreNotifications.png" align="top" alt="PreNotifications" width="400"/>
