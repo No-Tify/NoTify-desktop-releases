@@ -9,11 +9,13 @@
 
 1. Initially, your 'Important' inbox will be empty! To add any customizations, you should click the 'Filter' button in the top right, and add filters.
 
-2. Mute your notifications on a system level by [turning on](https://support.apple.com/en-gb/guide/mac-help/mchl999b7c1a/mac) "Do Not Disturb" - this lets you use NoTify as your sole source of notifications.
+2. The app works by reading your Notification center, so make sure to turn on Slack/Messenger/Messages/Calendar/Mail desktop notifications in the respective desktop apps! (You will need to use the desktop app versions of each of these services in order to see them)
+
+3. Mute your notifications on a system level by [turning on](https://support.apple.com/en-gb/guide/mac-help/mchl999b7c1a/mac) "Do Not Disturb" - this lets you use NoTify as your sole source of notifications.
 
    - (_optional_) Add NoTify to 'Allowed Apps' in the Do Not Disturb focus (in System Settings > Focus > Do Not Disturb) if you wish to get Desktop notifications too for the messages that you marked as 'Sound On'
 
-3. Click on notification groups to expand them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `j`, and `k` to navigate or `e` to expand the selected notification group)
+4. Click on notification groups to expand them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `j`, and `k` to navigate or `e` to expand the selected notification group)
 
 <!-- You can also follow along in the video below -->
 
