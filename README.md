@@ -53,4 +53,4 @@ We have support (on MacOS) for Slack, Messenger, the Mail app, Calendar, and Mes
 
 ## Interest Sign-Up Form
 
-Interested? [Join the Waitlist](https://docs.google.com/forms/d/e/1FAIpQLSeFzsNkiRDgDT6RgMnjCcpIzzF82qeuUyFZ-y5GwrHGcqL9hA/viewform?usp=sf_link) or email us at akshaj[DOT]kadaveru@gmail.com or sun[DOT]daniel[DOT]d@gmail.com
+Interested? [Join the Waitlist](https://docs.google.com/forms/d/e/1FAIpQLSeFzsNkiRDgDT6RgMnjCcpIzzF82qeuUyFZ-y5GwrHGcqL9hA/viewform?usp=sf_link) or email us at akshaj.kadaveru@gmail.com or sun.daniel.d@gmail.com
