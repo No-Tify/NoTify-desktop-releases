@@ -1,13 +1,5 @@
 # NoTify - Stop getting distracted at Work!
 
-## Table of Contents
-
-1. [The Problem with Slack](#you-wish-you-could-keep-slack-closed)
-2. [NoTify - Fine-grained Control Over Your Notifications](#notify---fine-grained-control-over-your-notifications)
-3. [How It Works](#how-it-works)
-4. [User Guide](#user-guide)
-5. [Interest Sign-Up Form](#interest-sign-up-form)
-
 ## You wish you could keep Slack closed
 
 Yes, [Slack is your #1 distraction](https://www.forbes.com/sites/lucianapaulise/2023/05/04/yes-slack-is-your-1-distraction-here-is-how-to-improve-your-productivity/?sh=837f6db3bff8). [Slack is not where deep work happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens). [Slack is ruining work](https://www.wired.co.uk/article/slack-ruining-work). It has been described as [death by a thousand pings](https://medium.com/counter-intuition/the-hidden-side-of-using-slack-2443d9b66f8a).
