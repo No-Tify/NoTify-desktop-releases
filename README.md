@@ -9,10 +9,9 @@
 
 1. Initially, your 'Important' inbox will be empty! To add any customizations, you should click the 'Filter' button in the top right, and add filters.
 
-2. We recommend
+2. Mute your notifications on a system level by [turning on](https://support.apple.com/en-gb/guide/mac-help/mchl999b7c1a/mac) "Do Not Disturb" - this lets you use NoTify as your sole source of notifications.
 
-   - muting notifications on a system level by [turning on](https://support.apple.com/en-gb/guide/mac-help/mchl999b7c1a/mac) "Do Not Disturb" so that you don't get double notified.
-   - (_if possible_) Adding NoTify to 'Allowed Apps' in the Do Not Disturb focus (in System Settings > Focus > Do Not Disturb)!
+   - (_optional_) Add NoTify to 'Allowed Apps' in the Do Not Disturb focus (in System Settings > Focus > Do Not Disturb) if you wish to get Desktop notifications too for the messages that you marked as 'Sound On'
 
 3. Click on notification groups to expand them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `j`, and `k` to navigate or `e` to expand the selected notification group)
 
@@ -27,6 +26,8 @@ We give you fine-grained controls to filter out the notifications you receive an
 Instead of having your 2 chat apps, email, and custom alerting tools all open taking up a whole monitor on your desk, just keep NoTify open on the side! Think of it like an inbox for your notifications. As a bonus, if you hit Inbox 0 on your notifications, you will be rewarded with a nice picture for your diligence, and you can go back to coding in peace.
 
 We have support (on MacOS) for Slack, Messenger, the Mail app, Calendar, and Messages - feel free to request more!
+
+The app is entirely Client-side and simply reads and structures your notifications from 'Notification Center', applying your chosen filters before showing them to you.
 
 ## Why NoTify
 
