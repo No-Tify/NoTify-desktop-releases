@@ -14,9 +14,7 @@ Death by notification is such a problem for all of us that we've each come up wi
 
 And crucially, **you still periodically open Slack** and other apps because of that fear of missing out on something.
 
-## NoTify - Fine-grained control over your notifications!
-
-**That's why we built NoTify - to only allow the notifications that matter!**
+### **That's why we built NoTify - to only allow the notifications that matter!**
 
 Using NoTify ourselves has been such a breeze and we have become dependent on it to have those [real focus periods](https://www.getclockwise.com/blog/what-is-focus-time#:~:text=Focus%20Time%20is%20two%20or,give%20it%20your%20undivided%20attention) of work where we can go back to building. We cannot imagine a world without it.
 
