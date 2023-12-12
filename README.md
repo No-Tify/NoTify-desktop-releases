@@ -33,7 +33,7 @@ We have support (on MacOS) for Slack, Messenger, the Mail app, Calendar, and Mes
 
 1. To use NoTify, download the product as follows:
 
-- Download the app with this link: [notify-darwin-universal-1.1.0.zip](https://github.com/No-Tify/NoTify-desktop-releases/releases/download/v1.1.0/notify-darwin-universal-1.1.0.zip)
+- Download the app with this link: [notify-darwin-universal-1.1.4.zip](https://github.com/No-Tify/NoTify-desktop-releases/releases/download/v1.1.4/notify-darwin-universal-1.1.4.zip)
 - Double click the app (notify) to open!
 
 2. Initially, your 'Important' inbox will be empty! To add any customizations, you should click the 'Filter' button in the top right, and add filters.
