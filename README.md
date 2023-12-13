@@ -15,7 +15,7 @@
 
    - (_optional_) Add NoTify to 'Allowed Apps' in the Do Not Disturb focus (in System Settings > Focus > Do Not Disturb) if you wish to get Desktop notifications too for the messages that you marked as 'Sound On'
 
-4. Click on notification groups to expand them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `j`, and `k` to navigate or `e` to expand the selected notification group)
+4. Click on notification groups to expand them! You can also use keyboard shortcuts to navigate (try pressing `space` to toggle keyboard mode on and off, and in this mode try `tab`, `up arrow`, and `down arrow` to navigate or `e` to expand the selected notification group)
 
 <!-- You can also follow along in the video below -->
 
