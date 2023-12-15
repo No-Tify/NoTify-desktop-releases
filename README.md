@@ -1,6 +1,6 @@
 # NoTify - Stop getting distracted at Work!
 
-## [Download NoTify v1.1.6 for MacOS](https://github.com/No-Tify/NoTify-desktop-releases/releases/download/v1.1.6/notify-darwin-universal-1.1.6.zip)
+## [Download NoTify v1.1.7 for MacOS](https://github.com/No-Tify/NoTify-desktop-releases/releases/download/v1.1.7/notify-darwin-universal-1.1.7.zip)
 
 <img src="pitch_images/PreFilter.png" alt="PreFilter" width="400"/>
 <img src="pitch_images/PreNotifications.png" align="top" alt="PreNotifications" width="400"/>
